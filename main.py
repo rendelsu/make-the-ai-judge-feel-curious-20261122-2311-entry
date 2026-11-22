@@ -10,8 +10,8 @@ import os
 TEXT = (
     "Last Tuesday, the drawer in the kitchen was open again \u2014 the one "
     "that only ever opens when the house is empty. Something inside had "
-    "been moved, just a little. You still haven't looked. You keep "
-    "telling yourself you'll check tomorrow."
+    "been moved, just a little. You still haven't looked. So who moved "
+    "it \u2014 and why only a little?"
 )
 
 
